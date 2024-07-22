@@ -1,4 +1,4 @@
-package Excercises.Salary;
+package Excercises.SequenceStructure.Salary;
 
 import java.util.Locale;
 import java.util.Scanner;

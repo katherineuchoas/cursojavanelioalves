@@ -1,4 +1,4 @@
-package Excercises.Quadrant;
+package Excercises.ConditionalStructure.Quadrant;
 
 import java.util.Locale;
 import java.util.Scanner;

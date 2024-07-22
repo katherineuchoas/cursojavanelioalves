@@ -1,4 +1,4 @@
-package Excercises.PriceTable;
+package Excercises.ConditionalStructure.PriceTable;
 
 import java.util.Locale;
 import java.util.Scanner;

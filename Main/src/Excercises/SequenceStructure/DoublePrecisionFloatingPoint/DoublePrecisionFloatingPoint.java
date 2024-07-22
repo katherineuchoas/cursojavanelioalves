@@ -1,4 +1,4 @@
-package Excercises.DoublePrecisionFloatingPoint;
+package Excercises.SequenceStructure.DoublePrecisionFloatingPoint;
 
 import java.util.Locale;
 import java.util.Scanner;

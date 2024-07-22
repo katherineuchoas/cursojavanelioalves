@@ -1,4 +1,4 @@
-package Excercises.Interval;
+package Excercises.ConditionalStructure.Interval;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package Excercises.Lisarb;
+package Excercises.ConditionalStructure.Lisarb;
 
 import java.util.Locale;
 import java.util.Scanner;

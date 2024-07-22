@@ -1,4 +1,4 @@
-package Excercises.PaymentTerminal;
+package Excercises.SequenceStructure.PaymentTerminal;
 
 import java.util.Locale;
 import java.util.Scanner;

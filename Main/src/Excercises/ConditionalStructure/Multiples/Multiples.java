@@ -1,4 +1,4 @@
-package Excercises.Multiples;
+package Excercises.ConditionalStructure.Multiples;
 
 import java.util.Locale;
 import java.util.Scanner;

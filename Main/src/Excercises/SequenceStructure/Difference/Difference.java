@@ -1,4 +1,4 @@
-package Excercises.Difference;
+package Excercises.SequenceStructure.Difference;
 
 import java.util.Locale;
 import java.util.Scanner;

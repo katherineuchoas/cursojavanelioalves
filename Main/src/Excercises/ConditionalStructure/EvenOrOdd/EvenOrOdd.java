@@ -1,22 +1,22 @@
-package Excercises.NegativeNumber;
+package Excercises.ConditionalStructure.EvenOrOdd;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class NegativeNumber {
+public class EvenOrOdd {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Vamos iniciar!");
+        System.out.println("PAR OU IMPAR!");
         System.out.println("Digite um número:");
         int number =sc.nextInt();
 
-        if (number >= 0){
-             System.out.println("Não negativo!");
+        if (Math.abs(number % 2) == 1){
+            System.out.println("IMPAR!");
         }
         else{
-            System.out.println("Negativo!");
+            System.out.println("PAR!");
         }
 
         sc.close();
