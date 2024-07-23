@@ -3,6 +3,10 @@ package Excercises.ConditionalStructure.EvenOrOdd;
 import java.util.Locale;
 import java.util.Scanner;
 
+/*
+Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.
+*/
+
 public class EvenOrOdd {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);

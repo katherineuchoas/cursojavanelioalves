@@ -3,6 +3,10 @@ package Excercises.ConditionalStructure.NegativeNumber;
 import java.util.Locale;
 import java.util.Scanner;
 
+/*
+Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.
+*/
+
 public class NegativeNumber {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);

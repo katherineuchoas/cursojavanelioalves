@@ -3,6 +3,17 @@ package Excercises.ConditionalStructure.PriceTable;
 import java.util.Locale;
 import java.util.Scanner;
 
+/*
+Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A
+seguir, calcule e mostre o valor da conta a pagar.
+ * CÓDIGO - ESPECIFICAÇÃO       -  PREÇO
+ * 1      - CACHORRO QUENTE      - R$ 4.00
+ * 2      - X-SALADA             - R$ 4.50
+ * 3      - X-BACON              - R$ 5.00
+ * 4      - TORRADA SIMPLES      - R$ 2.00
+ * 5      - REFRIGERANTE         - R$ 1.50
+*/
+
 public class PriceTable {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
