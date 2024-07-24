@@ -1,4 +1,4 @@
-package Excercises.RepetitiveStructure.CartesianPoint;
+package Excercises.RepetitiveStructure.While.CartesianPoint;
 
 import java.util.Scanner;
 

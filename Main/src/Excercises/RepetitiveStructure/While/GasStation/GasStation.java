@@ -1,4 +1,4 @@
-package Excercises.RepetitiveStructure.GasStation;
+package Excercises.RepetitiveStructure.While.GasStation;
 
 import java.util.Scanner;
 

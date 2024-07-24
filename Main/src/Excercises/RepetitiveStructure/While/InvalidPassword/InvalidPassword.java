@@ -1,4 +1,4 @@
-package Excercises.RepetitiveStructure.InvalidPassword;
+package Excercises.RepetitiveStructure.While.InvalidPassword;
 
 import java.util.Scanner;
 
